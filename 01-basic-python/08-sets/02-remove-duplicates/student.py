@@ -1,7 +1,4 @@
 # Write your code here
-from cgitb import reset
-
-
 def remove_duplicates(xs):
     result=[]
     xset=set()
